@@ -190,9 +190,6 @@ integrando:
 -   Modelo de Machine Learning
 -   Previsões automáticas
 
-Serve como base sólida para projetos FIAP, TCCs e demonstrações
-profissionais.
-
 ------------------------------------------------------------------------
 
 Pronto! Agora o projeto está documentado com clareza e pronto para

@@ -3,9 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-
-# READMEHERE
-
 <em>Empowering Smarter Farming Through Data-Driven Insights</em>
 
 <!-- BADGES -->
